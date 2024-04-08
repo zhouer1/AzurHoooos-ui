@@ -1,2 +1,4 @@
 # AzurHoooos
-a project for my study of frontend
+2022年7月
+用于学习的自建项目
+我爱碧蓝航线
